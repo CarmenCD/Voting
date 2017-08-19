@@ -1,2 +1,2 @@
 # Voting
-Application for votion UserStory for teams that use agile approach
+Application for voting UserStory for teams that use agile approach
